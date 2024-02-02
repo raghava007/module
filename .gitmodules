@@ -1,3 +1,15 @@
 [submodule "subM"]
 	path = subM
 	url = https://github.com/raghava007/subM.git
+[submodule "s"]
+	path = s
+	url = https://github.com/raghava007/module.git
+[submodule "abc"]
+	path = abc
+	url = https://github.com/raghava007/module.git
+[submodule "abcd"]
+	path = abcd
+	url = https://github.com/raghava007/module.git
+[submodule "abcde"]
+	path = abcde
+	url = https://github.com/raghava007/module.git
