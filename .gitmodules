@@ -13,3 +13,6 @@
 [submodule "abcde"]
 	path = abcde
 	url = https://github.com/raghava007/module.git
+[submodule "raghav"]
+	path = raghav
+	url = https://github.com/raghava007/module.git
